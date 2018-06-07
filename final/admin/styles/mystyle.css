@@ -1,0 +1,56 @@
+body{
+  width: 60%;
+  margin: 0px auto;
+  background: #ccc;
+}
+input{
+  width: 100%;
+}
+.ui-widget-header{
+  text-align: center;
+}
+.table{
+  width:55%;
+  float: left;
+}
+.ui.menu{
+  width:10px;
+}
+.ui-datepicker{
+  width: 250px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+#error{
+  color: red;
+  float: right;
+  font-size: 10pt;
+}
+#error_msg{
+  color: red;
+  margin: 0px auto;
+  width: 50%;
+  font-size: 10pt;
+}
+#footer{
+  width: 100%;
+  text-align: center;
+  bottom: 3px;
+  position:relative;
+  background-color: #000;
+  color: #fff;
+  font-size: 8pt;
+}
+.footer_adm{
+  width: inherit;
+  text-align: center;
+  bottom: 3px;
+  position:absolute;;
+  background-color: #000;
+  color: #fff;
+  font-size: 8pt;
+}
